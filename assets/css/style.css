@@ -216,6 +216,7 @@ body {
     border: 0 none;
   }
 
+
 /*media query*/
 @media screen and (max-width:980px){
 /*resizing the main areas to fit the assignment model*/
@@ -282,4 +283,5 @@ body {
       height:auto;
     }
 }
+
   
